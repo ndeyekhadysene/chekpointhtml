@@ -1,8 +1,9 @@
 /*  Barre de navigation */
 
- ul li 
+ul li
 {
-font-family: roboto;
-display: inline;
-color: aqua;
+    display: inline-block;
+    color: aqua;
+    list-style: none;
 }
+
